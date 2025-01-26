@@ -48,7 +48,7 @@ The issue lies in the server-side logic of the `/account/updateKYC` endpoint. Th
 3. Repeat the above request until the account balance exceeds `1337` rupees.
 4. Send a final HTTP request to the validation endpoint to receive the flag:
    ```bash
-   curl http://localhost:3000/ctf/validateChall2
+   curl https://sca.challenges.defhawk.com:3000/ctf/validateChall2
    ```
 
 ### **Challenge Flag**  
