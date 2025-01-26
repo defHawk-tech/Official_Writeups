@@ -1,4 +1,4 @@
-## ** [The Vault Heist](https://defhawk.com/battleground/practice-lab/the-vault-heist) : Unauthenticated API Exploitation**
+## [The Vault Heist](https://defhawk.com/battleground/practice-lab/the-vault-heist) : Unauthenticated API Exploitation
 
 ### **Description to Participants**  
 As a part of the challenge, you must gain access to all the details associated with a user account registered on the platform with the following:  
