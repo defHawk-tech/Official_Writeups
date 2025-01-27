@@ -1,6 +1,6 @@
 # Shadows of Zday
 
-CipherShade, a notorious dark web figure operating under the alias **zday0x01**, runs a hidden service called *The Whisper Vault*. While claiming anonymity, CipherShade’s arrogance leads to breadcrumbs being scattered across the internet. Participants must uncover CipherShade's real identity through OSINT techniques and link their activities across Twitter, GitHub, and HackerOne.
+[Author: @frey] CipherShade, a notorious dark web figure operating under the alias **zday0x01**, runs a hidden service called *The Whisper Vault*. While claiming anonymity, CipherShade’s arrogance leads to breadcrumbs being scattered across the internet. Participants must uncover CipherShade's real identity through OSINT techniques and link their activities across Twitter, GitHub, and HackerOne.
 
 ---
 
