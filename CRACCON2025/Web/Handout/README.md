@@ -1,1 +1,0 @@
-Deep within the secure facility, the AES-128 vault door stands impenetrable... or so they thought. Our sensors detected faint power fluctuations each time the lock processed an entry code. We've captured 5,000 voltage whispers as the lock digested different passcodes.
