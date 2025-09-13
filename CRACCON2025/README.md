@@ -2,6 +2,10 @@
 
 This repository contains official write-ups for the **CRACCON2025** [event](https://defhawk.com/battleground/raid/craccon-ctf). The write-ups are organized by category to provide clear, detailed explanations and solutions for various challenges.
 
+🏆 1st  Winner: 0bscuri7y
+🥈 2nd Winner: BlitzHack
+🥉 3rd Winner: b33tr0ot
+
 ---
 
 ## 📂 Directory Structure
